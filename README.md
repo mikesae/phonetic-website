@@ -1,2 +1,2 @@
 # phonetic-website
-tutorial
+This repository is used for Git and GitHub training.
